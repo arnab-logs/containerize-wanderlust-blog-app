@@ -16,7 +16,7 @@ These steps will help you **clone, set up, and run** the application locally usi
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/arnab-logs/containerize-wanderlust-blog-app.git
 cd wanderlust-travel-blog
 ````
 
