@@ -23,7 +23,7 @@ services:
     container_name: frontend
     build: ./frontend
     env_file:
-      - ./backend/.env.sample
+      - ./frontend/.env.sample
     ports:
       - "5173:5173"
 
